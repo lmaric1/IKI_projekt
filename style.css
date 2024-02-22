@@ -1,0 +1,357 @@
+/* Frame 1 */
+
+position: relative;
+width: 1244px;
+height: 84px;
+
+background: #D3DD63;
+
+
+/* FILMOVI */
+
+position: absolute;
+width: 89px;
+height: 20px;
+left: 322px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* SERIJE */
+
+position: absolute;
+width: 69px;
+height: 19px;
+left: 491px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* GLUMCI */
+
+position: absolute;
+width: 87px;
+height: 18px;
+left: 651px;
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* NAGRADE */
+
+position: absolute;
+width: 106px;
+height: 17px;
+left: 817px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+/* logo 1 */
+
+position: absolute;
+width: 215px;
+height: 38px;
+left: 5px;
+top: 24px;
+
+
+
+/* g376 */
+
+position: absolute;
+left: 1.77%;
+right: 0.16%;
+top: 5.87%;
+bottom: 8.01%;
+
+
+
+/* path2 */
+
+position: absolute;
+left: 1.77%;
+right: 85%;
+top: 5.87%;
+bottom: 8.01%;
+
+background: #000000;
+
+
+/* path4 */
+
+position: absolute;
+left: 20.51%;
+right: 75.69%;
+top: 23.41%;
+bottom: 34.92%;
+
+background: #000000;
+
+
+/* path6 */
+
+position: absolute;
+left: 24.74%;
+right: 70.8%;
+top: 23.34%;
+bottom: 35.07%;
+
+background: #000000;
+
+
+/* path8 */
+
+position: absolute;
+left: 29.54%;
+right: 64.48%;
+top: 23.26%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path10 */
+
+position: absolute;
+left: 35.91%;
+right: 55.52%;
+top: 23.19%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path12 */
+
+position: absolute;
+left: 44.57%;
+right: 51.57%;
+top: 23.34%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path14 */
+
+position: absolute;
+left: 51.04%;
+right: 43.72%;
+top: 23.34%;
+bottom: 34.86%;
+
+background: #000000;
+
+
+/* path16 */
+
+position: absolute;
+left: 56.94%;
+right: 36.81%;
+top: 23.34%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path18 */
+
+position: absolute;
+left: 61.91%;
+right: 34.77%;
+top: 23.34%;
+bottom: 23.37%;
+
+background: #000000;
+
+
+/* path20 */
+
+position: absolute;
+left: 65.93%;
+right: 29.61%;
+top: 23.34%;
+bottom: 35.07%;
+
+background: #000000;
+
+
+/* path22 */
+
+position: absolute;
+left: 70.44%;
+right: 23.5%;
+top: 23.34%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path24 */
+
+position: absolute;
+left: 76.49%;
+right: 17.8%;
+top: 23.34%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path26 */
+
+position: absolute;
+left: 82.64%;
+right: 10.89%;
+top: 23.61%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path28 */
+
+position: absolute;
+left: 89.6%;
+right: 6.51%;
+top: 23.51%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path30 */
+
+position: absolute;
+left: 93.72%;
+right: 0.16%;
+top: 23.34%;
+bottom: 34.87%;
+
+background: #000000;
+
+
+/* path32 */
+
+position: absolute;
+left: 89.6%;
+right: 8.39%;
+top: 53.19%;
+bottom: 35.15%;
+
+background: #000000;
+
+
+/* path34 */
+
+position: absolute;
+left: 20.26%;
+right: 77.7%;
+top: 54.87%;
+bottom: 35.45%;
+
+background: #000000;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 220px;
+height: 32px;
+left: 1003px;
+top: 25px;
+
+background: #F7EEEE;
+
+
+/* magnifying-glass-svgrepo-com 1 */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1197px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Pretraži */
+
+position: absolute;
+width: 70px;
+height: 18px;
+left: 1010px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 19px;
+
+color: #747474;
+
